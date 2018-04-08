@@ -1,12 +1,12 @@
 # docker-nginx-php7-mysql
 Development Docker Containers to quickly start a new project
 
-### installation
+### Installation
 
 - Clone this repository
 - Create the folder 'mysql'
 - Create the folder 'webroot'
-- Set your mysql passwords as environment variables in docker-compose.yml
+- Set your mysql connection details as environment variables in docker-compose.yml
 
 ### Starting the app & db containers
 
