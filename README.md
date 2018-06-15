@@ -26,3 +26,4 @@ supervisorctl restart nginx
 ### TODO
 
 - [ ] Add nginx configs as a volume
+- [ ] Optimize supervisord config
